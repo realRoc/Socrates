@@ -24,8 +24,9 @@
 
 ## Note:
 
-This is a simple chatbot build based on Nonebot (https://nonebot2-vercel-mirror.vercel.app/)
-A quick demo is showed on BilliBilli (https://www.bilibili.com/video/BV1e44y157AT)
+This is a simple chatbot build based on Nonebot (https://nonebot2-vercel-mirror.vercel.app/).
+A quick demo is showed on BilliBilli (https://www.bilibili.com/video/BV1e44y157AT).
 However this bot is NOT WORKING, this is because:
-a) I cannot afford a server
+
+a) I cannot afford a server.
 b) Backend ERNIE model is supported by Baidu, which they no longer support since the competition is over.
